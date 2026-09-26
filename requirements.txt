@@ -1,0 +1,9 @@
+opencv-python
+numpy
+mediapipe
+scipy
+pillow
+
+# Optional: enables automatic treadmill speed-display OCR (SPEED metric).
+# Without it, SPEED is shown as UNAVAILABLE rather than guessed.
+# easyocr
