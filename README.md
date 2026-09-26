@@ -1,6 +1,6 @@
 # Running Biomechanics Analyzer
 
-Dev/Creator-tubakhxn
+# Dev/Creator-tubakhxn
 A single-file, zero-configuration computer-vision pipeline that turns a plain video of a runner into a professional, sports-science style analysis video.
 
 The output is a side-by-side render:
